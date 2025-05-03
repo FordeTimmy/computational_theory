@@ -15,7 +15,6 @@ This repository contains my submission for the Computational Theory module, part
 - [Timeline and History of Commits](#timeline-and-history-of-commits)
 - [How to View the Project](#how-to-view-the-project)
 - [Criteria for Evaluation Covered](#criteria-for-evaluation-covered)
-- [AI Used](#ai-used)
 - [References](#references)
 
 ---

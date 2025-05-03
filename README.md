@@ -2,6 +2,37 @@
 
  My assignment for Computational Theory is in this file. This shows how I solved the problems given in `tasks.ipynb`, showing that I understand basic ideas in computational theory by using clear code, markdown descriptions, and consistent development methods.
  
+ ## Table of Contents
+
+- [Introduction](#introduction)
+- [Repository Structure](#repository-structure)
+- [Task Overview](#task-overview)
+- [Features](#features)
+- [Libraries Used](#libraries-used)
+- [Timeline and History of Commits](#timeline-and-history-of-commits)
+- [Instructions to Run Jupyter Notebook](#instructions-to-run-jupyter-notebook)
+- [Criteria for Evaluation Covered](#criteria-for-evaluation-covered)
+- [AI Used](#ai-used)
+- [References](#references)
+
+---
+
+## Introduction
+
+This notebook demonstrates and explores key ideas in computational theory, including:
+
+- Bitwise operations and binary manipulation
+- Hashing functions and SHA-256 padding
+- Turing Machine logic and simulation
+- Prime number generation and root extraction
+- Proof-of-work concept using SHA-256
+- Algorithm complexity through bubble sort analysis
+
+Each task includes:
+- Python implementation
+- Plain English explanation
+- Outputs for validation
+
 ## Repository Structure
 
 ├── tasks.ipynb          # Main notebook containing all task solutions

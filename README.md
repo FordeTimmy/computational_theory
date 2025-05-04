@@ -10,8 +10,8 @@
 ├── README.md            # Overview and guide to the repository
 ├── .gitignore           # Specifies files to ignore in version control
 ├── requirements.txt     # Lists libraries needed to run the notebook
-├── test.txt             # Sample input for SHA-256 padding
-├── words.txt            # Word list used in the Proof of Work task
+├── test.txt             # Sample input for SHA-256 padding (Task 3)
+├── Short.txt            # Small dictionary with words (e.g., "hello") for proof-of-work testing (Task 6)
 ```
 
 ---
